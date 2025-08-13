@@ -8,6 +8,15 @@ Este proyecto convierte un notebook emocional en una app web interactiva usando 
 
 ## 📦 Estructura del proyecto
 
+## 🛠 Cómo ejecutarlo localmente
+
+```bash
+git clone https://github.com/flycoxs/NOTA.git
+cd NOTA
+pip install -r requirements.txt
+streamlit run app.py
+
+
 
 
 
