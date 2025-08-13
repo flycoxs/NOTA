@@ -16,8 +16,7 @@ Este proyecto convierte un notebook emocional en una app web interactiva usando 
 ```bash # Clona el laboratorio emocional
 git clone https://github.com/flycoxs/NOTA.git
 
-# Entra al espacio creativo
-cd NOTA
+# todo lo que sube tiene que bajar
 
 # Instala las herramientas necesarias
 pip install -r requirements.txt
