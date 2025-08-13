@@ -1,2 +1,5 @@
-# NOTA
-NOTE BOOK PERSONAL
+NOTA/
+├── app.py
+├── requirements.txt
+└── README.md
+
