@@ -10,6 +10,9 @@ Este proyecto convierte un notebook emocional en una app web interactiva usando 
 
 ## 🛠 Cómo ejecutarlo localmente
 
+
+¿Quieres que también te prepare el `requirements.txt` con las dependencias básicas para Streamlit y visualización?
+
 ```bash
 git clone https://github.com/flycoxs/NOTA.git
 cd NOTA
